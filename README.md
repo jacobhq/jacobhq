@@ -16,4 +16,4 @@ I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue
 [![Github folllow](https://img.shields.io/github/followers/jacob-marshall?label=Follow&logo=github&style=for-the-badge)](github.com/jacob-marshall)
 [![Github fork](https://img.shields.io/github/forks/jacob-marshall/jacob-marshall?label=Fork&logo=github&style=for-the-badge)](github.com/jacob-marshall/jacob-marshall)
 
-![Jacob's's github stats](https://github-readme-stats.vercel.app/api?username=jacob-marshall&count_private=true&show_icons=true)
+![Jacob's's github stats](https://stats.desica.vercel.app/api?username=jacob-marshall&count_private=true&show_icons=true)
