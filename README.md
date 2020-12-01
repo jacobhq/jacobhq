@@ -5,7 +5,7 @@ UNEXPECTED BAD THINGS WILL HAPPEN IF YOU DON'T READ THIS
 I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue.js
 
 - 🔭 I’m currently working on **my company's design guidelines, [Desikit](https://desikit.vercel.app)**
-- 🌱 I’m currently learning **Node.js and Nuxt.js**
+- 🌱 I’m currently learning **C#**
 - 👯 I’m looking to collaborate on **anything. Reach out to me**
 - 💬 Ask me about **Nuxt.js**
 - 📫 How to reach me: **[info@desica.uk](mailto:info@desica.uk)**
