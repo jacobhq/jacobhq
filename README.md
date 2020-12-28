@@ -1,5 +1,3 @@
-UNEXPECTED BAD THINGS WILL HAPPEN IF YOU DON'T READ THIS
-
 ### Hi there 👋
 
 I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue.js
