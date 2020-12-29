@@ -3,11 +3,11 @@
 I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue.js
 
 - 🔭 I’m currently working on **my company's design guidelines, [Desikit](https://desikit.vercel.app)**
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **anything. Reach out to me**
-- 💬 Ask me about **Nuxt.js**
+- 💬 Ask me about **Vue.js**
 - 📫 How to reach me: **[info@desica.uk](mailto:info@desica.uk)**
-- ⚡ Fun fact: **I'm a human being**
+- ⚡ Fun fact: **Ive been ong ithub since before I could say repository**
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
