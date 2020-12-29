@@ -7,7 +7,7 @@ I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue
 - 👯 I’m looking to collaborate on **anything. Reach out to me**
 - 💬 Ask me about **Vue.js**
 - 📫 How to reach me: **[info@desica.uk](mailto:info@desica.uk)**
-- ⚡ Fun fact: **Ive been ong ithub since before I could say repository**
+- ⚡ Fun fact: **I've been on github since before I could say repository**
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
