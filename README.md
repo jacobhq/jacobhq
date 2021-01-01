@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 and happy new year
 
 I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue.js
 
