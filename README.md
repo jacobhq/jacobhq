@@ -1,4 +1,4 @@
-### Hi there 👋 and happy new year
+### Hi there 👋
 
 I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue.js
 
@@ -8,6 +8,13 @@ I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue
 - 💬 Ask me about **Vue.js**
 - 📫 How to reach me: **[info@desica.uk](mailto:info@desica.uk)**
 - ⚡ Fun fact: **I've been on github since before I could say repository**
+
+### Knowing it's me 👏
+
+You'll know it's one of my repos when you see this cool badge:
+<br>
+<br>
+![Badge](https://static.desica.uk/hotlink-ok/BadgeJm.svg)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
