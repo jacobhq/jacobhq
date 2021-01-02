@@ -13,7 +13,7 @@ I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue
 
 ## A bit about me ℹ️
 ### Bullets
-- 🔭 I’m currently working on **my company's design guidelines, [Desikit](https://desikit.vercel.app)**
+- 🔭 I’m currently working on **my company's design guidelines, [Desikit](https://beta.kit.desica.uk/)**
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **anything. Reach out to me**
 - 💬 Ask me about **Vue.js**
