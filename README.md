@@ -1,7 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue.js
+I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vuejs.
+<br>
+<br>
+[![Website](https://img.shields.io/website?label=🌐%20%20My%20website&style=for-the-badge&url=https%3A%2F%2Fjacob.js.org)](https://jacob.js.org)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yes_jacob_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/yes_jacob_)
+[![Github folllow](https://img.shields.io/github/followers/jacobhq?label=Follow&logo=github&style=for-the-badge)](github.com/jacob-marshall)
+[![Github fork](https://img.shields.io/github/forks/jacobhq/jacobhq?label=Fork&logo=github&style=for-the-badge)](github.com/jacob-marshall/jacob-marshall)
 
+## Stats
+![GitHub metrics](https://metrics.lecoq.io/jacobhq?isocalendar=1&pagespeed=1&languages=1&tweets=1&followup=1&pagespeed.detailed=false&isocalendar.duration=full-year&tweets.limit=2&config.timezone=Europe%2FLondon)
+
+## A bit about me
+### Bullets
 - 🔭 I’m currently working on **my company's design guidelines, [Desikit](https://desikit.vercel.app)**
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **anything. Reach out to me**
@@ -9,19 +20,15 @@ I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue
 - 📫 How to reach me: **[info@desica.uk](mailto:info@desica.uk)**
 - ⚡ Fun fact: **I've been on github since before I could say repository**
 
-### Knowing it's me 👏
+### Bio
+
+## Knowing it's me 👏
 
 You'll know it's one of my repos when you see this cool badge:
 <br>
 <br>
 ![Badge](https://static.desica.uk/hotlink-ok/BadgeJm.svg)
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## Loving my README? 😍
 
-[![Website](https://img.shields.io/website?label=🌐%20%20My%20website&style=for-the-badge&url=https%3A%2F%2Fjacob.js.org)](https://jacob.js.org)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yes_jacob_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/yes_jacob_)
-[![Github folllow](https://img.shields.io/github/followers/jacobhq?label=Follow&logo=github&style=for-the-badge)](github.com/jacob-marshall)
-[![Github fork](https://img.shields.io/github/forks/jacobhq/jacobhq?label=Fork&logo=github&style=for-the-badge)](github.com/jacob-marshall/jacob-marshall)
-
-![Jacob's's github stats](https://stats.desica.vercel.app/api?username=jacobhq&count_private=true&show_icons=true)
+I used [metrics.lecoq.io](https://metrics.lecoq.io/), which I found out about from [@micahlt](https://github.com/micahlt). I made my badge in [Figma](https://figma.com/), and, that's about it.
