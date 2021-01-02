@@ -21,7 +21,7 @@ I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue
 - ⚡ Fun fact: **I've been on github since before I could say repository**
 
 ### Bio
-I'm just your average high school developer. Ok, maybe not. I'm a self taught developer, and I'm fluent in HTML, CSS, JS, Python, Nodejs, Npmjs, Vuejs and Nuxtjs. I've hosted Desica's iDesign podcast, and am founder of [Desica](https://desica.uk). I even have my own themed version of bootstrap, [Desikit](npmjs.com/desikit).
+I'm just your average high school developer. Ok, maybe not. I'm a self taught developer, and I'm fluent in HTML, CSS, JS, Python, Nodejs, Npmjs, Vuejs and Nuxtjs. I've hosted Desica's iDesign podcast, and am founder of [Desica](https://desica.uk). I even have my own themed version of bootstrap, [Desikit](https://npmjs.com/desikit).
 
 ## Knowing it's me 👏
 
