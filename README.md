@@ -8,10 +8,10 @@ I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue
 [![Github folllow](https://img.shields.io/github/followers/jacobhq?label=Follow&logo=github&style=for-the-badge)](github.com/jacob-marshall)
 [![Github fork](https://img.shields.io/github/forks/jacobhq/jacobhq?label=Fork&logo=github&style=for-the-badge)](github.com/jacob-marshall/jacob-marshall)
 
-## Stats
+## Stats 📈
 ![GitHub metrics](https://metrics.lecoq.io/jacobhq?isocalendar=1&pagespeed=1&languages=1&tweets=1&followup=1&pagespeed.detailed=false&isocalendar.duration=full-year&tweets.limit=2&config.timezone=Europe%2FLondon)
 
-## A bit about me
+## A bit about me ℹ️
 ### Bullets
 - 🔭 I’m currently working on **my company's design guidelines, [Desikit](https://desikit.vercel.app)**
 - 🌱 I’m currently learning **Python**
@@ -21,6 +21,7 @@ I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue
 - ⚡ Fun fact: **I've been on github since before I could say repository**
 
 ### Bio
+I'm just your average high school developer. Ok, maybe not. I'm a self taught developer, and I'm fluent in HTML, CSS, JS, Python, Nodejs, Npmjs, Vuejs and Nuxtjs. I've hosted Desica's iDesign podcast, and am founder of [Desica](https://desica.uk). I even have my own themed version of bootstrap, [Desikit](npmjs.com/desikit).
 
 ## Knowing it's me 👏
 
