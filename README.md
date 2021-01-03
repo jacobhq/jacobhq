@@ -5,8 +5,6 @@ I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things vue
 <br>
 [![Website](https://img.shields.io/website?label=🌐%20%20My%20website&style=for-the-badge&url=https%3A%2F%2Fjacobhq.xyz)](https://jacobhq.xyz/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yes_jacob_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/yes_jacob_)
-[![Github folllow](https://img.shields.io/github/followers/jacobhq?label=Follow&logo=github&style=for-the-badge)](github.com/jacob-marshall)
-[![Github fork](https://img.shields.io/github/forks/jacobhq/jacobhq?label=Fork&logo=github&style=for-the-badge)](github.com/jacob-marshall/jacob-marshall)
 
 ## Stats 📈
 ![GitHub metrics](https://metrics.lecoq.io/jacobhq?isocalendar=1&pagespeed=1&languages=1&tweets=1&followup=1&pagespeed.detailed=false&isocalendar.duration=full-year&tweets.limit=2&config.timezone=Europe%2FLondon)
