@@ -12,7 +12,7 @@ I'm Jacob Marshall, a developer from London, UK. I'm fasinated by all things nod
 ## A bit about me 👾
 ### Bullets 🗞️
 - 🔭 I’m currently working on **my company's design guidelines, [Desikit](https://beta.kit.desica.uk/)**
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Vercel's Next.js**
 - 👯 I’m looking to collaborate on **anything. Reach out to me**
 - 💬 Ask me about **Vue.js**
 - 📫 How to reach me: **[info@desica.uk](mailto:info@desica.uk)**
