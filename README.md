@@ -1,41 +1,24 @@
 <samp>
 
 # Hi there 👋
+  
+### 📝 Bio
+I'm a 14 year old highschool developer and child actor. In coding territory, I've worked on popular React UI libraries like [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) and [geist-org/geist-ui](https://github.com/geist-org/geist-ui). I've built an awesome blog at [jacob.omg.lol](https://jacob.omg.lol/), which I write articles on. Along with these, I've built a product called [Startrack](https://startrack.vercel.app/). It's a bit like Twitter intents but for github.
+  
+### 📰 TLDR
+- 🔭 I’m currently working on **[jacobhq/startrack](https://github.com/jacobhq/startrack)**
+- 🌱 I’m currently learning **nothing at the moment**
+- 👯 I’m looking to collaborate on **React UI libraries**
+- 💬 Ask me about **Next.js**
+- 📫 How to reach me: **[jacob@omg.lol](mailto:jacob@omg.lol)**
+- ⚡ Fun fact: **I've been on github since before I could pronounce the word repository**
 
+### 🔎 More about me
 <details>
   <summary>📈 Stats</summary>
   <br>
   
 ![GitHub metrics](./github-metrics.svg)
-</details>
-
-<details>
-  <summary>📰 TLDR</summary>
-  <br>
-  
-- 🔭 I’m currently working on **[jacobhq/startrack](https://github.com/jacobhq/startrack)**
-- 🌱 I’m currently learning **Vercel's Next.js**
-- 👯 I’m looking to collaborate on **anything. Reach out to me**
-- 💬 Ask me about **Vue.js**
-- 📫 How to reach me: **[info@desica.uk](mailto:info@desica.uk)**
-- ⚡ Fun fact: **I've been on github since before I could pronounce repository**
-</details>
-
-<details>
-  <summary>📝 Bio</summary>
-  <br>
-  
-  I'm just your average high school developer. Ok, maybe not. I'm a self taught developer, and I'm fluent in HTML, CSS, JS, Python, Nodejs, Npmjs, Vuejs and Nuxtjs. I've hosted Desica's iDesign podcast, and am founder of [Desica](https://desica.uk). I even have my own themed version of bootstrap, [Desikit](https://npmjs.com/desikit).
-</details>
-
-<details>
-  <summary>👏 Knowing it's me</summary>
-  <br>
-  
-  You'll know it's one of my repos when you see this cool badge:
-<br>
-<br>
-![Badge](https://static.desica.uk/hotlink-ok/BadgeJm.svg)
 </details>
 
 <details>
