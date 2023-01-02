@@ -3,7 +3,7 @@
 # Hi there 👋
   
 ### 📝 Bio
-I'm a 14 year old highschool developer and child actor. In coding territory, I've worked on popular React UI libraries like [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) and [geist-org/geist-ui](https://github.com/geist-org/geist-ui). I've built an awesome blog at [jacob.omg.lol](https://jacob.omg.lol/), which I write articles on. Along with these, I've built a product called [Startrack](https://startrack.vercel.app/). It's a bit like Twitter intents but for github.
+I'm a 15 year old highschool developer and child actor. In coding territory, I've worked on popular React UI libraries like [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) and [geist-org/geist-ui](https://github.com/geist-org/geist-ui). I've built an awesome blog at [jacob.omg.lol](https://jacob.omg.lol/), which I write articles on. Along with these, I've built a product called [Startrack](https://startrack.vercel.app/). It's a bit like Twitter intents but for github.
   
 ### 📰 TLDR
 - 🔭 I’m currently working on **[jacobhq/allow-calc](https://github.com/jacobhq/allow-calc)**
