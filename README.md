@@ -3,14 +3,14 @@
 # Hi there 👋
   
 ### 📝 Bio
-I'm a 15 year old highschool developer and child actor. In coding territory, I've worked on popular React UI libraries like [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) and [geist-org/geist-ui](https://github.com/geist-org/geist-ui). I've built an awesome blog at [jacob.omg.lol](https://jacob.omg.lol/), which I write articles on. Along with these, I've built a product called [Startrack](https://startrack.vercel.app/). It's a bit like Twitter intents but for github.
+I'm a 16 year old software developer, learning about machine learning and neural networks. In coding territory, I've worked on popular React UI libraries like [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) and [geist-org/geist-ui](https://github.com/geist-org/geist-ui). I've built an awesome blog at [jhqcat.com](https://jhqcat.com/), which I occasionally write articles on. Along with these, I've built a product called [Startrack](https://startrack.vercel.app/).
   
 ### 📰 TLDR
-- 🔭 I’m currently working on **[jacobhq/allow-calc](https://github.com/jacobhq/allow-calc)**
-- 🌱 I’m currently learning **nothing at the moment**
-- 👯 I’m looking to collaborate on **React UI libraries**
-- 💬 Ask me about **Next.js**
-- 📫 How to reach me: **[jacob@omg.lol](mailto:jacob@omg.lol)**
+- 🔭 I’m currently working on **[jacobhq/othello](https://github.com/jacobhq/othello)**
+- 🌱 I’m currently learning **linear algebra and neural networks**
+- 👯 I’m looking to collaborate on **anything with Tensorflow**
+- 💬 Ask me about **Frontend development (React)**
+- 📫 How to reach me: **[me@jhqcat.com](mailto:me@jhqcat.com)**
 - ⚡ Fun fact: **I've been on github since before I could pronounce the word repository**
 
 ### 🔎 More about me
@@ -25,7 +25,7 @@ I'm a 15 year old highschool developer and child actor. In coding territory, I'v
   <summary>😍 Loving my README?</summary>
   <br>
   
-  I used [metrics.lecoq.io](https://metrics.lecoq.io/), which I found out about from [@micahlt](https://github.com/micahlt). I made my badge in [Figma](https://figma.com/), and, that's about it.
+  I used [metrics.lecoq.io](https://metrics.lecoq.io/), which I found out about from [@micahlt](https://github.com/micahlt).
 </details>
 
   <br>
