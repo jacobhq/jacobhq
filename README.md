@@ -30,6 +30,6 @@ I'm a 16 year old software developer, learning about machine learning and neural
 
   <br>
   
-Written by Jacob Marshall, [@jhqcat](https://twitter.com/jhqcat) on twitter, and [jacob.omg.lol](https://jacob.omg.lol/) on the web.
+Written by Jacob Marshall, [@jhqcat](https://twitter.com/jhqcat) on twitter, and [jhqcat.com](https://jhqcat.com) on the web.
 
 </samp>
