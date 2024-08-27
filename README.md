@@ -6,9 +6,9 @@
 I'm a 16 year old software developer, learning about machine learning and neural networks. In coding territory, I've worked on popular React UI libraries like [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) and [geist-org/geist-ui](https://github.com/geist-org/geist-ui). I've built an awesome blog at [jhqcat.com](https://jhqcat.com/), which I occasionally write articles on. Along with these, I've built a product called [Startrack](https://startrack.vercel.app/).
   
 ### 📰 TLDR
-- 🔭 I’m currently working on **[jacobhq/othello](https://github.com/jacobhq/othello)**
-- 🌱 I’m currently learning **linear algebra and neural networks**
-- 👯 I’m looking to collaborate on **anything with Tensorflow**
+- 🔭 I’m currently working on **[jacobhq/othello](https://github.com/jacobhq/othello) (will implement in rust when fluent)**
+- 🌱 I’m currently learning **the Rust programming language (for WebAssembly)**
+- 👯 I’m looking to collaborate on **machine learning projects that use Rust and WebAssembly**
 - 💬 Ask me about **Frontend development (React)**
 - 📫 How to reach me: **[me@jhqcat.com](mailto:me@jhqcat.com)**
 - ⚡ Fun fact: **I've been on github since before I could pronounce the word repository**
