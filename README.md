@@ -3,7 +3,7 @@
 # Hi there 👋
   
 ### 📝 Bio
-I'm a 16 year old software developer, learning about machine learning and neural networks. In coding territory, I've worked on popular React UI libraries like [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) and [geist-org/geist-ui](https://github.com/geist-org/geist-ui). I've built an awesome blog at [jhqcat.com](https://jhqcat.com/), which I occasionally write articles on. Along with these, I've built a product called [Startrack](https://startrack.vercel.app/).
+I'm a 17 year old software developer, learning about machine learning and neural networks. In coding territory, I've worked on popular React UI libraries like [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) and [geist-org/geist-ui](https://github.com/geist-org/geist-ui). I've built an awesome blog at [jhqcat.com](https://jhqcat.com/), which I occasionally write articles on. Along with these, I've built a product called [Startrack](https://startrack.vercel.app/).
   
 ### 📰 TLDR
 - 🔭 I’m currently working on **[jacobhq/othello](https://github.com/jacobhq/othello) (will implement in rust when fluent)**
