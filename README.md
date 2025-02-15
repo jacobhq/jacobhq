@@ -6,10 +6,10 @@
 I'm a 17 year old software developer, learning about machine learning and neural networks. In coding territory, I've worked on popular React UI libraries like [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) and [geist-org/geist-ui](https://github.com/geist-org/geist-ui). I've built an awesome blog at [jhqcat.com](https://jhqcat.com/), which I occasionally write articles on. Along with these, I'm captain of my school's Robotics Team.
   
 ### 📰 TLDR
-- 🔭 I’m currently working on **[jacobhq/othello](https://github.com/jacobhq/othello) (will implement in rust when fluent)**
-- 🌱 I’m currently learning **the Rust programming language (for WebAssembly)**
+- 🔭 I’m currently working on **[tuono-labs/tuono](https://github.com/tuono-labs/tuono)**
+- 🌱 I’m currently learning **the Rust programming language**
 - 👯 I’m looking to collaborate on **machine learning projects that use Rust and WebAssembly**
-- 💬 Ask me about **Frontend development (React)**
+- 💬 Ask me about **React.js, Rust**
 - 📫 How to reach me: **[me@jhqcat.com](mailto:me@jhqcat.com)**
 - ⚡ Fun fact: **I've been on github since before I could pronounce the word repository**
 
