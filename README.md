@@ -2,8 +2,8 @@
 
 # Hi there 👋
   
-### 📝 Bio
-I'm a 17 year old software developer, learning about machine learning and neural networks. In coding territory, I've worked on popular React UI libraries like [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) and [geist-org/geist-ui](https://github.com/geist-org/geist-ui). I've built an awesome blog at [jhqcat.com](https://jhqcat.com/), which I occasionally write articles on. Along with these, I'm captain of my school's Robotics Team.
+### 📝 Introduction
+I'm a 17 year old software developer, learning about machine learning and neural networks. I maintain [tuono-labs/tuono](https://github.com/tuono-labs/tuono), a fullstack React framework that allows you to write serverside code in Rust. I've built an awesome blog at [jhqcat.com](https://jhqcat.com/), which I occasionally write articles on. Along with these, I'm captain of my school's Robotics Team.
   
 ### 📰 TLDR
 - 🔭 I’m currently working on **[tuono-labs/tuono](https://github.com/tuono-labs/tuono)**
@@ -19,13 +19,6 @@ I'm a 17 year old software developer, learning about machine learning and neural
   <br>
   
 ![GitHub metrics](./github-metrics.svg)
-</details>
-
-<details>
-  <summary>😍 Loving my README?</summary>
-  <br>
-  
-  I used [metrics.lecoq.io](https://metrics.lecoq.io/), which I found out about from [@micahlt](https://github.com/micahlt).
 </details>
 
   <br>
