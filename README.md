@@ -3,7 +3,7 @@
 # Hi there 👋
   
 ### 📝 Introduction
-I'm a 17 year old software developer, learning about machine learning and neural networks. I maintain [tuono-labs/tuono](https://github.com/tuono-labs/tuono), a fullstack React framework that allows you to write serverside code in Rust. I've built an awesome blog at [jhqcat.com](https://jhqcat.com/), which I occasionally write articles on. Along with these, I'm captain of my school's Robotics Team.
+I'm a 18 year old software developer, learning about machine learning and neural networks. I maintain [tuono-labs/tuono](https://github.com/tuono-labs/tuono), a fullstack React framework that allows you to write serverside code in Rust. I've built an awesome blog at [jhqcat.com](https://jhqcat.com/), which I occasionally write articles on. Along with these, I'm captain of my school's Robotics Team.
   
 ### 📰 TLDR
 - 🔭 I’m currently working on **[tuono-labs/tuono](https://github.com/tuono-labs/tuono)**
